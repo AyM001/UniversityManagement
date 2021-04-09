@@ -7,4 +7,5 @@ University Management
 - Verify classes for availability.
 
 
-JAVA CORE : GENERICS , LISTS , STREAMS , LAMBDAS , OPTIONALS..
+JAVA CORE : GENERICS , LISTS , STREAMS , LAMBDAS , OPTIONALS ETC...
+HIBERNATE.
