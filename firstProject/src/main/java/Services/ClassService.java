@@ -11,7 +11,6 @@ public class ClassService {
 
     public void addClass(ClassModel classModel) {
         genericDao.add(classModel);
-        System.out.println("TEST");
     }
 
     public List<ClassModel> getClasses(ClassModel classModel) {
