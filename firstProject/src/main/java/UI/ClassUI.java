@@ -24,6 +24,7 @@ public class ClassUI {
             System.out.println(" 4.Update classes");
             System.out.println(" 5.Delete class.");
             System.out.println(" 0.Back");
+            System.out.println("teeesssstttt");
             option = scanner.nextInt();
             scanner.nextLine();
             if (option == 1) {
