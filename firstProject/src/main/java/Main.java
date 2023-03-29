@@ -14,7 +14,7 @@ public class Main {
         ProjectManagementUI projectManagementUI = new ProjectManagementUI();
         projectManagementUI.runProject();
 
-        System.out.println("HELLO");
+        System.out.println("That's all ok");
     }
 }
 
